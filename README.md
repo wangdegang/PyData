@@ -1,4 +1,4 @@
-# Study Notes for Python for Data Analysis, 2nd Edition
+# Study Notes -- Python for Data Analysis, 2nd Edition
 
 [Python for Data Analysis][1] by Wes McKinney,
 published by O'Reilly Media
