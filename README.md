@@ -3,7 +3,7 @@
 [Python for Data Analysis][1] by Wes McKinney,
 published by O'Reilly Media
 
-[Materials and IPython Notebooks] [2]
+[Materials and IPython Notebooks][2]
 
 
 ## License
