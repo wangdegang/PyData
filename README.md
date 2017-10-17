@@ -13,4 +13,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [Open Source Initiative](https://opensource.org/licenses/MIT).
 
 [1]: http://amzn.to/2vvBijB
-[2]: https://github.com/wesm/pydata
+[2]: https://github.com/wesm/pydata-book
